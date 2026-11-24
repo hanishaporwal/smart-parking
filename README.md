@@ -1,0 +1,2 @@
+# smart-parking
+A Smart Parking System is an IoT-based solution designed to simplify parking management by monitoring parking slot availability in real time. It uses sensors to detect whether parking spaces are occupied or vacant and displays this information through a user-friendly dashboard. The system helps drivers locate available parking spaces quickly, reducing traffic congestion, fuel consumption, waiting time, and carbon emissions. It also improves parking space utilization and supports efficient, sustainable urban transportation.
